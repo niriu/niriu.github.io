@@ -1,0 +1,29 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+Co-Founder: Cédric Trigoso
+  Location: Hamburg, Germany
+
+Co-Founder: Babak Ghanadian
+  Location: Hamburg, Germany
+
+Platform Development: Jan Engelhardt
+  Location: Hamburg, Germany
+
+Art Direction: Michael Raba
+  Site: http://www.michaelraba.com/
+  Location: Hamburg, Germany
+
+Strategy: Mathias Ulmann
+  Location: Hamburg, Germany
+
+/* THANKS */
+  Texts: Benjamin Bruno, Julia Molina
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Backbone, Mustache, Spring, Spring Security, Spring Data, JPA, Hibernate
+  Software: IntelliJ
+
